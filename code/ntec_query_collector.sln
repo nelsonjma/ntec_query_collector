@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ntec_query_collector", "ntec_query_collector\ntec_query_collector.csproj", "{3A4E9172-8280-4EC7-B580-11D9D9A5DCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_query_collector", "test_query_collector\test_query_collector.csproj", "{036CA9DE-ABE0-4386-925D-E4FC373ED28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4E9172-8280-4EC7-B580-11D9D9A5DCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4E9172-8280-4EC7-B580-11D9D9A5DCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4E9172-8280-4EC7-B580-11D9D9A5DCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4E9172-8280-4EC7-B580-11D9D9A5DCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036CA9DE-ABE0-4386-925D-E4FC373ED28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036CA9DE-ABE0-4386-925D-E4FC373ED28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036CA9DE-ABE0-4386-925D-E4FC373ED28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036CA9DE-ABE0-4386-925D-E4FC373ED28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
